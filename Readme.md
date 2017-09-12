@@ -1,8 +1,8 @@
-# MAVRIC Phoenix : [Team Name]
+# MAVRIC Phoenix : Mechanical
 The repository for the Mechanical Team. Includes designs and documentation.
 
 # Team Structure
-Team Lead: [Team Lead's name] (@[team lead's github account])
+Team Lead: Kyle Helvie (@KyleHelvie)
 
 Members:
  * ?
