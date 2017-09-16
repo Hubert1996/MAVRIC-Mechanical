@@ -5,22 +5,28 @@ The repository for the Mechanical Team. Includes designs and documentation.
 Team Lead: Kyle Helvie (@KyleHelvie)
 
 Members:
- * ?
- * ?
- * ?
- * ?
+ * Davis, Stephen K
+ * Matejka, Matthew J
+ * Ogle, Rebecka L
+ * Ooi, Hubert Y
+ * Roche, Riley P
+ * Whited, Derick J
+ * Wong, Christopher W
 
 # Folder Structure: [useful for people finding other people's work when they need it]
 
 ```
-|> Folder
-|  |> Subfolder
-|  `> Subfolder
+|> Mechanical
+|  |> Meeting Documents // This Week in Mechanical Team, Meeting Minutes, Agendas, etc.
+|  `> Design Documents // Printable deliverables: research summaries, drawing files, paper analysis etc.
 |
-`> Folder
-   |> Subfolder // Description
-   `> Subfolder // Description
-      `- File   // Only include files if they are particularly relevant
+`> MAVRIC Phoenix
+   |> Master Assembly // Contains the most recent Solidworks assembly for the entire rover
+    > Chassis // Chassis CAD, Parts Spreadsheet (links, costs, etc.), FEA Results, paper analysis, etc.
+   `> Suspension 
+    > Electrical Box
+    > Robotic Arm
+    > Other
 ```
 
 # Milestones
