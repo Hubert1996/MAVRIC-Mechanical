@@ -32,9 +32,8 @@ Members:
 # Milestones
 |                     | Milestone 1 | Milestone 2 | Milestone 3 | Milestone 4 |
 |:--------------------|:-----------:|:-----------:|:-----------:|:-----------:|
-| Name                |      ?      |      ?      |      ?      |      ?      |
+| Name                |    Design   | Manufacture |   Assembly  |   Testing   |
 | Due Date            |      ?      |      ?      |      ?      |      ?      |
-| Primary Team Member |      ?      |      ?      |      ?      |      ?      |
 
 ## Milestone 1:  link to the milestone on github: [NAME](https://github.com/m2i/MAVRIC-General/milestones/?)
 Description: ?
